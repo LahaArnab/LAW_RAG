@@ -4,9 +4,10 @@
 **Upload pdf and ask questions regarding the context**
 
 
-![Image](https://github.com/user-attachments/assets/1957117c-15b9-41cb-8315-9eebef911adc)
+![Image](https://github.com/user-attachments/assets/4bfeb3b1-16b7-4ab6-8ee9-0d5eacfac3d7)
 
-![Image](https://github.com/user-attachments/assets/e8ffd944-af66-4b23-9ad9-e8c75edf5d26)
+
+![Image](https://github.com/user-attachments/assets/c37223ee-9309-4e48-b1f9-4a6b69f826e9)
 
 
 
