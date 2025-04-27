@@ -1,7 +1,7 @@
 # RAG CHATBOT 
-RAG based questions answer using specified context (given PDF).
+**RAG based questions answer using specified context (given PDF).
 
-Upload pdf and ask questions regarding the context
+Upload pdf and ask questions regarding the context**
 
 
 ![Image](https://github.com/user-attachments/assets/1957117c-15b9-41cb-8315-9eebef911adc)
